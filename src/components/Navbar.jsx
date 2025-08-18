@@ -54,7 +54,7 @@ function Navbar() {
             testimonials
           </a>
         </ul>
-        <button className="capitalize hidden sm:block bg-white border-none rounded-full py-2 px-8">
+        <button className="capitalize hidden sm:block cursor-pointer bg-white border-none rounded-full py-2 px-8">
           sign up
         </button>
         <img

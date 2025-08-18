@@ -35,7 +35,7 @@ function Projects() {
       className="flex flex-col items-center justify-center container mx-auto p-15 md:px-20 lg:px-32 w-full overflow-hidden   bg-gray-100"
       id="projects"
     >
-      <h2 className="text-2xl sm:text-4xl font-bold mb-2">
+      <h2 className="text-2xl sm:text-4xl text-center font-bold mb-2">
         Projects{" "}
         <span className="underline underline-offset-4 under decoration-1 font-light">
           Completed
